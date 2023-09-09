@@ -22,7 +22,7 @@ function findTravelRoute(tickets) {
   
   const availableTickets = [
     'India',
-    'Hyderbad',
+    'France',
     'Bangalore',
     'Chennai'
     
